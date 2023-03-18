@@ -1,0 +1,15 @@
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.AssemblyInfo.cs
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\bin\Debug\net7.0\T8_KC_1120623_.exe
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\bin\Debug\net7.0\T8_KC_1120623_.deps.json
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\bin\Debug\net7.0\T8_KC_1120623_.runtimeconfig.json
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\bin\Debug\net7.0\T8_KC_1120623_.dll
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\bin\Debug\net7.0\T8_KC_1120623_.pdb
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.dll
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\refint\T8_KC_1120623_.dll
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.pdb
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\T8_KC_1120623_.genruntimeconfig.cache
+C:\Users\kenne\source\repos\T8_KC_1120623_\T8_KC_1120623_\obj\Debug\net7.0\ref\T8_KC_1120623_.dll
